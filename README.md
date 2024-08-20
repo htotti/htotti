@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henriue Totti
+- 👋 Hi, I’m Henrique Totti
 - 👀 I’m interested in leaning how machines work, and back end
 - 👨🏽‍💻 I’m currently learning computing/python, js, css
 - 📩 How to reach me INSTAGRAM: @htotti - EMAIL: henrique.totti.lapa@gmail.com Whatsapp: (11)959122986
